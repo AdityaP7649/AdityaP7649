@@ -1,7 +1,7 @@
 
 
 # 💫 About Me:
-I am a dedicated Engineering student with a strong passion for technology. I am proficient in a diverse range of programming languages including Java, C++, and Python. Skilled in web technologies such as HTML, CSS, JavaScript. Experienced in database management with a strong foundation in MySQL. I thrive on solving complex problems and continuously expanding my skill set. Committed to delivering innovative solutions and constantly expanding my technical expertise.I am seeking to contribute in exciting projects and collaborate with like-minded professionals in the tech industry.
+I am a dedicated Engineering student with a strong passion for technology. I am Proficient in Java, Javascript, and C++, with skills in web technologies including HTML, CSS, Bootstrap, React, Node.js, and Express.js. Strong foundation in MySQL and MongoDB for database management. Thrives on solving complex problems, committed to delivering innovative solutions, and constantly expanding technical expertise. Seeking opportunities to contribute to exciting projects and collaborate with like-minded professionals in the tech industry.
 <img align="right" alt="Coding" width="300" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
 # 💻 Tech Stack:
