@@ -10,5 +10,4 @@ I am a dedicated Engineering student with a strong passion for technology. I am 
 ![](https://github-readme-stats.vercel.app/api?username=AdityaP7649&theme=onedark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AdityaP7649&theme=onedark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaP7649&theme=onedark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-[![An image of @adityap7649's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/adityap7649)](https://holopin.io/@adityap7649)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
